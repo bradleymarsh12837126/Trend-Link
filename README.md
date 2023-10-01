@@ -1,8 +1,8 @@
 [![Made in Australia](https://img.shields.io/badge/Made_In-Australia-00843D?labelColor=FFCD00&style=for-the-badge)](https://www.madeinaustralia.com.au/)
 
-# Konnect 📱
+# TrendLink 📱
 
-Konnect is a social media app with a goal of helping people connect with each other without contantly worrying about getting likes and followers. It is currently in beta. If you want to contribute to the project, please see the [contributing](#contributing) section.
+TrendLink is a social media app with a goal of helping people connect with each other without contantly worrying about getting likes and followers. It is currently in beta. If you want to contribute to the project, please see the [contributing](#contributing) section.
 
 - ✅ [Twitter-like feed](#twitter-like-feed)
 - ✅ [Snapchat-like DMs](#snapchat-like-dms)
@@ -18,11 +18,11 @@ Konnect is a social media app with a goal of helping people connect with each ot
 
 ## Authors 👥
 
-- [@what-question-mark](https://www.github.com/what-question-mark)
+- [@bradleymarsh12837126](https://www.github.com/bradleymarsh12837126)
 
 
 ## Feedback 📝
-If you have any feedback, please create a post in the [discussions tab](https://github.com/What-Question-Mark/Konnect/discussions/new?category=feedback).
+If you have any feedback, please create a post in the [discussions tab](https://github.com/bradleymarsh12837126/Trend-Link/discussions/new?category=feedback).
 
 
 ## Contributing 🤝
@@ -31,7 +31,7 @@ See `contributing.md` for ways to get started. Please adhere to this project's `
 
 
 ## License 📝
-If you want to use this a part of this code, please contact [@what-question-mark](https://www.github.com/what-question-mark) to negotiate a private license.
+If you want to use this a part of this code, please contact [@bradleymarsh12837126](https://www.github.com/bradleymarsh12837126) to negotiate a private license.
 
 
 ## Features 🧮
